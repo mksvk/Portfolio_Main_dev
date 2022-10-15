@@ -1,0 +1,17 @@
+/* .sectionone{
+
+background-color: ;
+} */
+
+.main{
+
+    position: relative;
+}
+.sub{
+    position: absolute;
+    left: -25%;
+}
+.content{
+    position: absolute;
+
+ right: 25%;}

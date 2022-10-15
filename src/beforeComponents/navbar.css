@@ -1,0 +1,28 @@
+h1{
+    margin: 0;
+    align-items: center;
+
+}
+.titlediv{
+    margin: auto 0;
+}
+li{
+    list-style:  none;
+    padding: 30px;
+    justify-content: center;
+    font-size: large;
+    display: inline-block;
+    
+    border-bottom: 1px solid whitesmoke;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+   
+    color: aliceblue;
+    background-color: #1A374D;
+    width: 80%;
+    margin: 0 auto;
+}
